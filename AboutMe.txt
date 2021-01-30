@@ -1,0 +1,94 @@
+Ike Quigley
+------------
+I am a software engineer. I have been writing code since the 4th grade. I have a BA in Screenwriting from UNC-Chapel Hill, and an
+MS in Comp Sci from UNCG. I have been coding professionally for over 20 years. I also spent time in the movie industry.
+I have written a novel. I have 2 children. 1 is a high school freshman. The other is an Econ major at NC State. I am
+currently remodeling my kitchen. It has consumed my life.
+
+Sengthida Lorvan
+----------------
+Hi, I am Thida! If all goes well I should be graduating in December with a BS in Comp Sci with three minors, Chinese,
+Math, and History. I enjoy reading, mainly fiction, as well as watching shows in my spare time. I like to binge so I
+start reading/watching a lot of different things at once. I work as a student technician under Classroom Technology.
+I help the teachers with their tech issues(hardware) within the classroom. After I graduate while trying to find a job
+in the field I plan on honing my foreign language skills and attempt to be a translator.
+
+Hyoungjin Choi
+------------
+I am a Computer Science student. I have been writing code since my senior year of high school.
+I have an AAS in Information Technology - College Transfer Track from GTCC.
+I was born in Korea and this is also my 8th year living in the United States. I speak Korean fluently.
+I like playing Destiny 2 on my xbox and watching YouTube vieos in my free time.
+One of my favorite foods is Carbonara. I can cook a decent one if I do say so myself.
+
+Thomas Truong
+------------
+I am a junior at UNCG in Computer Science. My first BA is in Biology with a minor in Chemistry.
+In my free time I like to play games or go fishing. I am currently working a full time job repairing laptops
+but my goal is to become a software engineer after I graduate. My favorite fast food restaurant is chik-fil-a.
+
+Darlyn Mendez
+-------------
+Hi my name is Darlyn and I'm a Computer Science major. I was born in Peru and I moved to the US when I was two years old.
+I like creating complex origami models and I enjoy listening to music. I also like to play table tennis.
+I'm still a beginner in table tennis, but hopefully I can still improve.
+
+McKenzie Staton
+-------------
+Hi my name is McKenzie Staton and I'm a Junior in Computer Science at UNCG. 
+I've been writing code since High School. 
+In my free time, I mostly just read and listen to music. I have two cats. 
+I also like Baking, my favorite things to make are many different types of cookies (like Chocolate Chip and Snickerdoodle). 
+
+A̲k̲a̲s̲h̲ ̲C̲a̲r̲v̲e̲r̲
+Greetings! I like rock sculptures that go beep boop and engineering things that utilize their beep boops effectively, in consideration of others who also want to make things with beep booping. 
+I also like reading, writing, and learning. I like to write and plan on creating a novel. Hiroshi Mori is one of my favorite authors and my favorite genre is philosophical fiction. 
+What interests me most about computer science is theory of computation and cellular automata. Greensboro is my hometown and supporting my family here is cool. 
+I like discussing in various areas including anime and manga in which I give presentations on various topics. My favorite food is cabbage.
+
+John Iacoucci
+-------------
+I am a CS Major at UNCG. I work at the hospital with covid patients. I have a girlfriend of 5 years and
+we have a dog together. Her name is Luna and she is the best Australian Shepard you could ask for. I am
+thinking of going into the data field primarily to manage databases and write applications that revolve
+around databases. I just enjoy the structure to a database I find it soothing :).
+
+Noah Brown
+-------------
+I am a sophomore Computer Science student at UNCG. I have been interested in the ins and outs of software and computing
+since 3rd grade, and my course concentration in High School was in Digital Media. I have three siblings, two of whom are
+in high school, while my sister is currently in Kindergarten. My ideal career path is a Professor in Computer Science,
+after receiving either a Master's or Doctorate in Computer Science. 
+
+Ian Holder
+-----------
+I am, I assume like many here, a Computer Science major. I am the youngest of four, and the most curious. 
+Finding ways to take things apart into their component pieces, but not finding how to put them back together.
+I have gotten into fountin pens recently, preferring Kaweco pens.
+The type of hobby that I could not recommend unless spending hours tring to fix something that might be broken seems fun.
+But generaly I play video games in my free time: Bioshock, Hades, The Outer Worlds, and CyberPunk 2077 to name a few.
+Also I am tring to read through Terry Pratchett's Discworld books.
+
+Michael Leonard
+-------------
+I am a Senior currently finishing my last year at UNCG. I am a CS major with a math minor, but I don't really know what field of CS I want to go into after I graduate.
+Operating System design and Security are both very interesting to me though. I was born and raised in Raleigh but I've done alot of traveling. 
+I wait tables so my weekends are normally spent inside of a chaotic restaurant. When I do havefreetime I love to go hiking/camping at Linville Gorge 
+and I play Hearthstone when I can. (Add me on battle.net if you want to play, #Camden1643)   
+
+Yikuan Du
+-------------
+Hi everyone I am YikuanDu, a computer science student. I come from China. What I do most in my spare time
+is to play video games (especially Path of exile), collect some electronic products and then disassemble
+them. I want to do some work on video games after graduation.
+
+Patrick Ksor
+------------
+I am a junior majoring in CS at UNCG. I was born and raised in Greensboro and have lived here my whole life. My hobbies include working out, playing video games, and playing
+basketball. I got into programming my senior year of high school. Software engineering and Artificial intelligence are some of the things that are interesting to me at the
+moment.   
+
+Alana Traylor
+-------------
+I am a CS student with a concentration in data science and a minor in human development and family studies. I was born and raised in Fayetteville, NC, moved to greensboro for school. 
+I spend most of my time working at a retirement home where I am a CNA or in the biology labs as a lab assistant here at UNCG. Whenever I might have freetime I watch crime documentaries or anime. 
